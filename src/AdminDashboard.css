@@ -1,0 +1,28 @@
+.dashboard-container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.attendance-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.attendance-table th, .attendance-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.attendance-table th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.face-image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
